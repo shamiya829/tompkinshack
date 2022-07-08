@@ -25,6 +25,9 @@ Credits:
 	Icons:
 		Font Awesome (fontawesome.io)
 
+	Resources:
+		Hack Club (hackclub.com)
+
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
