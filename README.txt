@@ -7,3 +7,8 @@ Over the past four decades, Tic Tac Toe has become an increasingly competitive e
 </p>
 
 
+# Credits
+
+https://www.hackclub.com
+https://www.linkedin.com/in/itsuncheng/
+https://itsuncheng.medium.com/best-free-resources-that-computer-science-students-should-definitely-know-d148c51b956e
